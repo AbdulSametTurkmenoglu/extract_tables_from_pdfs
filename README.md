@@ -84,3 +84,12 @@ Aşağıda, `llmwhisperer` ile çıkarılan bir tablonun görsel bir örneği ye
 
 
 
+## 📝 Sonuçlar ve Öneriler
+
+- **Düzenli Tablolar**: Camelot (`lattice`) ve Tabula, düzenli ve net sınırları olan tablolarda en iyi performansı gösterir.
+- **Düzensiz Tablolar**: pdfplumber ve Camelot (`stream`) daha esnek yapılandırma sunar, ancak doğruluk tablonun yapısına bağlıdır.
+- **Metin + Tablo**: LLMWhisperer, tablo dışı metinleri de çıkarmak için idealdir.
+- **Performans**: pdfplumber en hafif ve hızlı çözümdür, ancak karmaşık tablolarda ek ayar gerektirebilir.
+
+Farklı kullanım senaryolarına bağlı olarak her yöntemin avantajları olsa da, yapılan testlerde **LLMWhisperer** genellikle en tutarlı ve kapsamlı sonuçları sağlamıştır. Bu nedenle, hem tablo hem de metin çıkarımı gereken durumlarda LLMWhisperer öncelikli olarak değerlendirilebilir. Hangi yöntemin seçileceği, PDF'nin yapısına, tablo düzenine ve projenin ihtiyaçlarına bağlıdır. 
+
