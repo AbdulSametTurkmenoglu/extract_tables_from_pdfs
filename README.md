@@ -48,6 +48,11 @@ API_KEY=your_unstract_api_key_here
 # PDF Dosyası
 Projenin çalışması için eregli_rapor.pdf dosyasının proje dizininde bulunması gerekir. Bu dosya, tablo çıkarımı için kullanılacak örnek PDF belgesidir.
 
+Aşağıda, `eregli_rapor.py` örnek bir tablo vardır :
+
+
+
+
 # 🛠 Kullanım
 Her bir betiği ayrı ayrı çalıştırarak tablo çıkarım sonuçlarını görebilirsiniz. Betikleri çalıştırmak için aşağıdaki komutları kullanın:
 
