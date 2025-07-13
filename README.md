@@ -62,4 +62,4 @@ Her betik, PDF'deki tabloları kendi yöntemine göre çıkarır ve sonuçları 
 ## 📊 Örnek Çıktı
 Aşağıda, `camelot` ile çıkarılan bir tablonun görsel bir örneği yer almaktadır:
 
-![pdfplumber Çıktı Örneği](images/pdfplumber_output.jpg)
+![pdfplumber Çıktı Örneği](pdfplumber_output.jpg)
