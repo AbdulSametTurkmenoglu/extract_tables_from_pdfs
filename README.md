@@ -50,6 +50,7 @@ Projenin çalışması için eregli_rapor.pdf dosyasının proje dizininde bulun
 
 Aşağıda, `eregli_rapor.py` örnek bir tablo vardır :
 
+![eregli rapor Örnek tablo ](eregli_rapor_ornek.png)
 
 
 
